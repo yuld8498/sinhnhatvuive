@@ -1,0 +1,15 @@
+/* @keyframes fadeIn {
+    from{
+        width: 0;
+    }
+    to {
+        width: 100%;
+    }
+}
+
+
+.text-description1 {
+    overflow: hidden;
+    animation: fadeIn 2s steps(215);
+}
+* ADD YOUR AWESOME CODES HERE * */
